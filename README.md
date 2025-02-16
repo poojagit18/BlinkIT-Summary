@@ -18,4 +18,4 @@ This Power BI dashboard provides an **insightful summary of BlinkIT orders** for
   
 📂 **Dataset:** 
 
-📂 **Snapshot:** [1.png]
+📂 **Snapshot:** ![](1.PNG)
