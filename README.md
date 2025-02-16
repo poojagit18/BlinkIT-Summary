@@ -15,6 +15,7 @@ This Power BI dashboard provides an **insightful summary of BlinkIT orders** for
 - **Power BI** – Data Visualization  
 - **DAX & Power Query** – Data Processing  
 - **Excel/SQL** – Data Source  
+  
+📂 **Dataset:** 
 
-🔗 **Live Demo:** [Add Power BI Embed Link]  
-📂 **Dataset:** [Upload Sample Dataset if applicable]  
+📂 **Snapshot:** [1.png]
