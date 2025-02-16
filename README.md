@@ -1,7 +1,7 @@
 # BlinkIT Order Summary Dashboard 📊
 
 ### 🚀 Overview  
-This Power BI dashboard provides an **insightful summary of BlinkIT orders** for a particular city. It helps analyze order trends, customer behavior, and delivery performance.
+This Power BI dashboard provides an **insightful summary of BlinkIT orders** for city level Summary. It helps analyze order trends, customer behavior, and delivery performance.
 
 ### 🔹 Key Features  
 ✔ **Total Orders & Revenue** – Track order volume and earnings.  
@@ -16,6 +16,6 @@ This Power BI dashboard provides an **insightful summary of BlinkIT orders** for
 - **DAX & Power Query** – Data Processing  
 - **Excel/SQL** – Data Source  
   
-📂 **Dataset:** 
+📂 **Dataset:** ![](2.PNG)
 
 📂 **Snapshot:** ![](1.PNG)
